@@ -1,2 +1,2 @@
 # ConnectSix.github.io
-六子棋ConnectSixAI程序
+这是基于北京大学botzone网站上的六子棋ai对战平台开发的ConnectSixAI程序
